@@ -1,0 +1,9 @@
+BLR,ECE,3,5,Suhas,Subject13,midsem,50,quiz,10,endsem,13,attendance,90,Subject14,attendance,90,Subject15,attendance,90
+BLR,CSE,2,4,Hemanth,Subject10,midsem,4,quiz1,5,endsem,150,attendance,100,Subject11,attendance,100,Subject12,attendance,100
+COI,CSE,2,3,Pranav,Subject7,endsem,90,attendance,90,Subject8,attendance,90,Subject9,attendance,90
+BLR,CSE,2,3,Sricharan,Subject7,quiz,10,midsem,10,endsem,10,attendance,90,Subject8,attendance,90,Subject9,attendance,90
+BLR,CSE,1,2,Amitesh,Subject4,endsem,90,attendance,90,Subject5,attendance,90,Subject6,attendance,90
+BLR,CSE,1,2,Arjun,Subject4,midsem,50,endsem,100,attendance,90,Subject5,midsem,30,endsem,80,attendance,80,Subject6,attendance,60
+BLR,CSE,2,4,King,Subject10,attendance,90,Subject11,attendance,100,Subject12,attendance,75
+BLR,CSE,1,1,King,Subject1,attendance,0,Subject2,attendance,0,Subject3,attendance,0
+BLR,CSE,2,3,SreeHarsha,Subject7,attendance,90,Subject8,attendance,190,Subject9,attendance,890
